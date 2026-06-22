@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm Elhoucine AIT-DOUCH</h1>
 <h3 align="center">Web Full Stack Developer | React & Laravel | Robotics Enthusiast</h3>
 
@@ -173,6 +173,5 @@
 
 > *"Du code web aux robots autonomes — j'aime transformer les idées en solutions concrètes."*  
 > — **Elhoucine AIT-DOUCH**
-=======
 
->>>>>>> 37f5d9f204d2a2989d8ed9bca44df991612e0454
+
